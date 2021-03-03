@@ -1,2 +1,1 @@
-# blog
-记录日常工作和学习中的点滴
+# fangfang's blog
